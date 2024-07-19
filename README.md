@@ -4,7 +4,7 @@
 - Helped identify and report security threats, including phishing.
 - Analyzed and identified areas of the business needing more robust security training, and implemented training courses and procedures for those teams.
 
-Awareness document
+Phishing email Awareness
 ![phishing email analysis_page-0001](https://github.com/user-attachments/assets/d63b79da-eb57-42ee-ae59-9ef855741d4e)
 
 ![phishing email analysis_page-0002](https://github.com/user-attachments/assets/5b8b25ba-fe2e-4780-bc46-757a565ffac5)
